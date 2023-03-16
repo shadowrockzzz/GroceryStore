@@ -6,7 +6,7 @@ This app is working well in the below mentioned mobile :
 
         Device Name : Appo A5 2020
 
-        Version Baseband & kernel
+        Version : Baseband & kernel
 
         Android Version : V7.1
 
